@@ -17,8 +17,9 @@ STR
 
 ### Your “Token Address” on the Rinkeby Network
 
-Contract No. - 0x96988503463aCa2D4201fB1A3AE0C83160fA8bF1
-Tx No. - 0xe90deed02252dc446b17a51f66aac5ef900a9d29c175615dbbde2fe1e8329a27
+#### Contract No. - 0x96988503463aCa2D4201fB1A3AE0C83160fA8bF1
+
+#### Tx No. - 0xe90deed02252dc446b17a51f66aac5ef900a9d29c175615dbbde2fe1e8329a27
 
 ![Alt text](https://github.com/divvu/CryptoStarDapp/blob/master/deploy.JPG)
 
